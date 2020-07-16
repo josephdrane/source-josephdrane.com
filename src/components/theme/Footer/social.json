@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "LinkedIn",
+    "link": "https://linkedin.com/in/josephdrane",
+    "icon": "/icons/LI-In-Bug.png"
+  },
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/josephdrane",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "StackOverflow",
+    "link": "https://stackexchange.com/users/2715743/joseph-drane",
+    "icon": "/icons/stackoverflow.svg"
+  },
+  {
+    "id": 3,
+    "name": "Twitter",
+    "link": "https://twitter.com/josephdrane",
+    "icon": "/icons/twitter.svg"
+  }
+]

@@ -22,7 +22,7 @@
     "gatsby-plugin-sitemap": "^2.0.3",
     "gatsby-plugin-styled-components": "^3.0.4",
     "gatsby-source-filesystem": "^2.1.35",
-    "gatsby-source-graphql": "^2.1.21",
+    "gatsby-source-graphql": "^2.1.25",
     "gatsby-transformer-sharp": "^2.2.7",
     "gh-pages": "^3.1.0",
     "prop-types": "^15.6.2",
@@ -67,9 +67,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:smakosh/gatsby-portfolio-dev.git"
+    "url": "git@github.com:josephdrane/source-josephdrane.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/smakosh/gatsby-portfolio-dev/issues"
+    "url": "https://github.com/josephdrane/source-josephdrane.github.io/issues"
   }
 }
